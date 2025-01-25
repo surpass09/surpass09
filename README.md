@@ -7,7 +7,7 @@ I am a Computer Science and Software Engineering student at the University of Wa
 - 🔬 **Building innovative web applications** using React and Django.
 - 🎮 **Exploring Machine Learning** for predictive analytics and intelligent systems.
 
-Check out my [coding portfolio](#)!
+
 
 ## 🔍 More About Me
 I'm also an aspiring tech enthusiast and content creator who loves sharing knowledge about coding, best practices, and emerging technologies.
